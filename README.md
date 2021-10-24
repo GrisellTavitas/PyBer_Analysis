@@ -40,13 +40,13 @@ Based on the dates, we can see that the urban cities have their best performance
 
 After the analysis and visualization of the tendencies and behaviour per type of city, we could advice the CEO the next conclutions:
 
-    1.- The company must start looking for more drivers to work with, since this is the main affectation at the end in the income of the company. Let's see the next two visualizations where we can see clearly that the representation of drivers in the rural cities, affects directly to the income that this type of city represents for the total :
+  >1.- The company must start looking for more drivers to work with, since this is the main affectation at the end in the income of the company. Let's see the next two visualizations where we can see clearly that the representation of drivers in the rural cities, affects directly to the income that this type of city represents for the total :
     
-    ![Fig7](https://user-images.githubusercontent.com/90433064/138614013-2971afdb-c386-4a38-84ce-6fed7000160b.png)
+![Fig7](https://user-images.githubusercontent.com/90433064/138614013-2971afdb-c386-4a38-84ce-6fed7000160b.png)
 
-    ![Fig5](https://user-images.githubusercontent.com/90433064/138614014-d3d4db09-425a-4855-90e7-ab06de91a918.png)
+![Fig5](https://user-images.githubusercontent.com/90433064/138614014-d3d4db09-425a-4855-90e7-ab06de91a918.png)
 
-    2.- Related to the previous advice, the company could base their marketing campaing to attract more drivers, on making the numbers for the profit that they will receive not just for each ride, but for the total per day or week, since the objective here is receiving more request's rides, and in that case, instead of having just one ride per day, they will probably have lower fares but much more rides per the same period of time, meaning more income for them too.
+  >2.- Related to the previous advice, the company could base their marketing campaing to attract more drivers, on making the numbers for the profit that they will receive not just for each ride, but for the total per day or week, since the objective here is receiving more request's rides, and in that case, instead of having just one ride per day, they will probably have lower fares but much more rides per the same period of time, meaning more income for them too.
     
-    3.- On the other hand, having into account the law of supply and demand is an obvious effect that existing more request's rides than drivers to take them, the fares will go up. But the company has to take a look deeply in this point, and perhaps determine a maximum fare per ride; otherwise it could leade PyBer to the end of the service for the rural cities. Since in addition to the lack of drivers availables, the fares per ride are too expensive. So this it's not what is expected from a good company that wants to keep expanding its brand.  
+  >3.- On the other hand, having into account the law of supply and demand is an obvious effect that existing more request's rides than drivers to take them, the fares will go up. But the company has to take a look deeply in this point, and perhaps determine a maximum fare per ride; otherwise it could leade PyBer to the end of the service for the rural cities. Since in addition to the lack of drivers availables, the fares per ride are too expensive. So this it's not what is expected from a good company that wants to keep expanding its brand.  
     
